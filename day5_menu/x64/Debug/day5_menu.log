@@ -1,0 +1,4 @@
+﻿  day5_menu.cpp
+C:\Users\tienx\OneDrive - Trường ĐH CNTT - University of Information Technology\Documents\Visual Studio 2022\Basiccpluplus\day5_menu\day5_menu.cpp(137,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tienx\OneDrive - Trường ĐH CNTT - University of Information Technology\Documents\Visual Studio 2022\Basiccpluplus\day5_menu\day5_menu.cpp(148,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  day5_menu.vcxproj -> C:\Users\tienx\OneDrive - Trường ĐH CNTT - University of Information Technology\Documents\Visual Studio 2022\Basiccpluplus\x64\Debug\day5_menu.exe
